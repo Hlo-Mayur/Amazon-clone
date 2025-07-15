@@ -1,21 +1,36 @@
-# Amazon-clone
-🛒 Amazon Clone | HTML, CSS & JavaScript
-This project is a fully responsive clone of the Amazon homepage, built using only HTML, CSS, and JavaScript. It replicates the look and feel of Amazon's UI, including the navigation bar, product sections, deals, and footer.
+# 🛍️ Amazon Clone
 
-🔧 Tech Stack:
-HTML – Structure of the web page
+A fully responsive **Amazon homepage clone** built using **HTML, CSS, and JavaScript**. This project replicates the look and feel of Amazon’s front page, including the header, product showcases, and footer.
 
-CSS – Styling and layout
+## 🔥 Live Demo
 
-JavaScript – Basic interactivity (like sliders, dropdowns, and dynamic content)
+👉 [Click here to view the live site](#)  
+*(Replace `#` with your live demo URL - GitHub Pages, Netlify, etc.)*
 
-✨ Features:
-Responsive design for mobile and desktop views
+---
 
-Sticky navigation bar
+## 📸 Preview
 
-Hover effects and dropdown menus
+![Amazon Clone Preview](preview.png)  
+*(Add a screenshot or screen recording of your project here)*
 
-Sample product cards and banner sliders
+---
 
-Recreated Amazon footer and deals sections
+## 🛠️ Tech Stack
+
+- **HTML** – Page structure and content
+- **CSS** – Layout, styling, and responsiveness
+- **JavaScript** – Basic interactivity like sliders, dropdowns, and navigation
+
+---
+
+## ✨ Features
+
+- 🧭 Sticky and responsive navigation bar  
+- 📱 Fully responsive layout for mobile & desktop  
+- 🛒 Product showcase cards  
+- 🎯 Image sliders and category sections  
+- 🧩 Dropdowns and hover effects  
+- 📦 Recreated footer and Amazon styling
+
+---
