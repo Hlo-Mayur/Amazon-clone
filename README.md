@@ -4,7 +4,7 @@ A fully responsive **Amazon homepage clone** built using **HTML, CSS, and JavaSc
 
 ## 🔥 Live Demo
 
-👉 [Click here to view the live site](http://127.0.0.1:5500/Amazon-clone/index.html)  
+👉 [Click here to view the live site](https://hlo-mayur.github.io/Amazon-clone/)  
 
 ---
 
