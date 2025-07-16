@@ -4,15 +4,13 @@ A fully responsive **Amazon homepage clone** built using **HTML, CSS, and JavaSc
 
 ## 🔥 Live Demo
 
-👉 [Click here to view the live site](#)  
-*(Replace `#` with your live demo URL - GitHub Pages, Netlify, etc.)*
+👉 [Click here to view the live site](http://127.0.0.1:5500/Amazon-clone/index.html)  
 
 ---
 
 ## 📸 Preview
 
-![Amazon Clone Preview](preview.png)  
-*(Add a screenshot or screen recording of your project here)*
+![Amazon Clone Preview](./assets/screen.png.png)  
 
 ---
 
